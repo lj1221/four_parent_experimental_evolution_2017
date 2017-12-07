@@ -1,6 +1,6 @@
-# four_parent_experimental_evolution_2017
+# Experimental evolution of four-parent populations
 
-This repository contains source data for the manuscript "Patterns of selection reveal shared molecular targets over short and long evolutionary timescales".
+This repository contains source data for the manuscript "Patterns of selection reveal shared molecular targets over short and long evolutionary timescales". The manuscript is public on [bioRxiv] (https://www.biorxiv.org/content/early/2017/12/06/229419).
 
 Sequence reads for the time-resolved populations have been submitted to the SRA/ENA databases under study accession number [ERP003953](https://www.ebi.ac.uk/ena/data/view/PRJEB4645) and the NCBI BioProject under accession number [PRJEB4645](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB4645). The detailed sample accession numbers are listed in the text file "sequence_reads_download.txt".
 
