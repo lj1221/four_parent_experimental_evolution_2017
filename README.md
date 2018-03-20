@@ -12,3 +12,4 @@ In the folder of "phenotyping", it contains the doubling time of:
 
 In the folder of "allele_frequency", it contains the allele frequency of all the ancestral and evolved four-parent populations across multiple time points, which is used to identify QTLs.
 
+In the folder of "gene_sequences_1002G", it contains the alignments of RNR4, TOR1, TOR2 and FPR1 sequeces from "The 1002 Yeast Genome Project". If you are interested in the 1002 yeast genome project, please go to [1002G](http://1002genomes.u-strasbg.fr/) for more details.
